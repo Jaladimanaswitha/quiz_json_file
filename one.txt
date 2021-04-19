@@ -1,0 +1,11 @@
+[{"question":"How many days do we have in a week?" , "options":["2 days","5 days","7 days","10 days"] , "answer":"7 days"},
+ {"question":"How many days do we have in a leap year?" , "options":["300 days","365 days","366 days","350 days"] , "answer":"366 days"},
+ {"question":"How many colors are there in a rainbow?" , "options":["1","3","5","7"] , "answer":"7"},
+ {"question":"Which animal is known as the ‘Ship of the Desert'?" , "options":["Camel","Lion","Tiger","Rhino"] , "answer":"Camel"},
+ {"question":"How many letters are there in the English alphabet?" , "options":["20","21","26","30"] , "answer":"26"},
+ {"question":"How many consonants are there in the English alphabet?" , "options":["20","21","26","30"] , "answer":"21"},
+ {"question":"Which month of the year has the least number of days?" , "options":["January","February","March","April"] , "answer":"February"},
+ {"question":"Where does a horse live?" , "options":["Stable","Den","Sky","Nest"] , "answer":"Stable"},
+ {"question":"In which direction does the sun rise?" , "options":["North","East","South","West"] , "answer":"East"},
+ {"question":"How many years are there in one Millenium?" , "options":["3000","3650","3660","1000"] , "answer":"1000"},
+ {"question":"How many years are there in one Millenium?" , "options":["3000","3650","3660","1000"] , "answer":"1000"}]
